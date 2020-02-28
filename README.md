@@ -1,6 +1,6 @@
 # SimpleMusicGame
 Unity選修團隊作業
-## 成員
+## 其它成員
 1. https://github.com/feather020522
 2. https://github.com/william-083191
 3. https://github.com/jasonkao402
