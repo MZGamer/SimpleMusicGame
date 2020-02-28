@@ -1,0 +1,10173 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ba793feb3a2ed148a675a86a4a7bfeb, type: 3}
+  m_Name: Altale(Hard)
+  m_EditorClassIdentifier: 
+  Stage:
+    Notes:
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 0
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 0.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 0.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 1.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 1.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 1.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 2.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 2.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 3
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 3.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 3.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 4.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 4.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 4.875
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 5.3125
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 5.3125
+      time: 5.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 5.4375
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 5.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 5.5625
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 5.5
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 5.6875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 5.6875
+      time: 5.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 5.8125
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 5.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 5.9375
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 5.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 6.0625
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 6.0625
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 6
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 6.1875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 6.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 6.3125
+      time: 6.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 6.4375
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 6.4375
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 6.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 6.5625
+      time: 6.5
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 6.6875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 6.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 6.8125
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 6.8125
+      time: 6.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 6.9375
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 6.875
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 7.0625
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 7.1875
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 7.1875
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 7.3125
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 7.4375
+      time: 7.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 7.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.9375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 7.96875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 8
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.03125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.09375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 8.125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 8.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.3125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.4375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 8.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 8.84375
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.65625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.6875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.71875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.78125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 8.84375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 8.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.0625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 9.125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 9.59375
+      time: 9.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.40625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.4375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.46875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.53125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.5625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.59375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.625
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 9.84375
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 9.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 9.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 9.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.0625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.15625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.21875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.28125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.3125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.34375
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 10.4375
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.5625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.6875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.75
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 11.125
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 10.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 10.96875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 11.03125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.0625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 11.09375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 11.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 11.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 12.125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.5625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.6875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 12.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 13
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 13.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 13.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 13.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 13.5
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 13.9375
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 13.9375
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 13.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 14.0625
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 14.0625
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 14
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 14.1875
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 14.1875
+      time: 14.125
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 14.5625
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 14.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 14.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 14.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 14.9375
+      time: 14.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 14.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 14.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 15.3125
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 15.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 15.6875
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 16.0625
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 15.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 16
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 16.4375
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 16.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 16.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 16.375
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 16.8125
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 16.8125
+      time: 16.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 16.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 16.75
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 17.1875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 17.1875
+      time: 16.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 17.5625
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 17.3125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 17.4375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 17.5625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 17.9375
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.6875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 17.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.8125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 17.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 17.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 18.3125
+      time: 18
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.1875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.3125
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 18.6875
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.4375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 18.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.5625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 18.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.6875
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 19.0625
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 18.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 18.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 18.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 19.4375
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 19.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 19.3125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.4375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 19.8125
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.5625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 19.6875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 19.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 20.1875
+      time: 19.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 19.9375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 20.3125
+      time: 20.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.40625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.4375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 20.46875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.53125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.5625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 20.59375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.65625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.6875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 20.71875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.78125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 20.84375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 20.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 20.96875
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 21.0625
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 21.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.15625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.1875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.21875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 21.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.28125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.3125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.34375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 21.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.40625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.4375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.46875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 21.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.53125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.5625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.59375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 21.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.65625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.6875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.71875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 21.8125
+      time: 21.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 21.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 21.96875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.03125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.0625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.09375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.15625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.21875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.28125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.3125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.34375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.40625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.4375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.46875
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 22.5625
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.65625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.6875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.71875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.78125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.8125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.84375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 22.9375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 22.96875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.03125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 23.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.09375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.15625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 23.1875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.21875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 23.4375
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 23.4375
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.5625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 23.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 23.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 24
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 24.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 24.25
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 24.5
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 24.5
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 24.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 24.625
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 24.875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 24.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.03125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.0625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.09375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 25.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.15625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.1875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.21875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 25.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.28125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.3125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.34375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 25.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.40625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.4375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.46875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 25.625
+      time: 25.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.78125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 25.84375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 25.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 25.96875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.03125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.0625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 26.09375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.15625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 26.21875
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 26.75
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 26.75
+      time: 26.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.53125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.5625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.59375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.65625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.6875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.71875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.78125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.8125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.84375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.90625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.9375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 26.96875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 27
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 27.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 28.08333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28.45833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 28.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 28.83333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 28.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 29.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 29.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 29.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 29.625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 29.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 29.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 30
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 30.03125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 30.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 30.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 30.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 31.0625
+      time: 30.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 31
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 31.4375
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 31.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 31.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 31.4375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 31.8125
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 31.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 31.625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 31.75
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 32.0625
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 31.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 32.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 32.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 32.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 32.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 32.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 32.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 33
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 33.25
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 33.6875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 33.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 33.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 34.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.375
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 34.75
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.54166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 34.58333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 34.66666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.70833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 34.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 35.125
+      time: 34.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.91666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 34.95833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.04166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.08333
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 35.5
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 35.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.29166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.33333
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.41666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.45833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.5
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 35.875
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 35.66666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.70833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 35.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.79166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 35.83333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 35.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.04166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 36.08333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.16666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.20833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 36.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.41666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.45833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.54166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 36.58333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.79166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 36.83333
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 36.91666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 36.95833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 37
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 37.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.16666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.20833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.29166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.33333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 37.54166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.58333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 37.625
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.66666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 37.70833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 37.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.91666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 37.95833
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 38
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 38.04166
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 38.08333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 38.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 38.16666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 38.20833
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 38.25
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 38.41666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 38.58333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 38.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 39.125
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 39.125
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 38.91666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 39.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.625
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 39.875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.79166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.83333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 40
+      time: 39.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.91666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 39.95833
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 40.25
+      time: 40.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.16666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.20833
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 40.375
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.29166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.33333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 40.375
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.54166
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.58333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 40.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.66666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 40.70833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.79166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.83333
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 40.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 41
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.04166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 41.08333
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 41.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.29166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 41.33333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.41666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.45833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.65625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.6875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.71875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.78125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.8125
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.84375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 41.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.04166
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.08333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.16666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 42.20833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.40625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.4375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 42.46875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.53125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.5625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 42.59375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.625
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 42.83333
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.79166
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.83333
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 43
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 42.91666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 42.95833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 43.20833
+      time: 43.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.16666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.20833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 43.33333
+      time: 43.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.29166
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.33333
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 43.45833
+      time: 43.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.41666
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.45833
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 43.59375
+      time: 43.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.6875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.75
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 43.875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 44
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 44.125
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 44.16666
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 44.20833
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 44.875
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 44.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 44.4375
+      time: 44.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 44.5625
+      time: 44.5
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 44.6875
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 44.625
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 44.8125
+      time: 44.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 44.9375
+      time: 44.875
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 45
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 45.1875
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 45.25
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 45.6875
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 45.375
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 45.75
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 46.021084
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 46.15662
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 46.42771
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 46.56325
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 46.69879
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 46.83433
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 46.97
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 47.24096
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 47.37651
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 47.64759
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 47.78313
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 47.91868
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 48.05421
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 48.46084
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 48.46084
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 48.18976
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 48.59638
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 1
+        endtime: 49.2741
+      time: 49.003
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 49.68073
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 49.40694
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 50.08736
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 49.81627
+    - Line1:
+        active: 1
+        Hold: 1
+        endtime: 50.494
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 50.22292
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 50.62953
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 50.76508
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 50.90062
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 51.03617
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 51.17171
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 51.30726
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 51.4428
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 51.57834
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 1
+        Hold: 0
+        endtime: 0
+      time: 51.71389
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 51.87943
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 51.985
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 52.12052
+    - Line1:
+        active: 1
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line3:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 52.25606
+    - Line1:
+        active: 0
+        Hold: 0
+        endtime: 0
+      Line2:
+        active: 1
+        Hold: 1
+        endtime: 54.83138
+      Line3:
+        active: 1
+        Hold: 1
+        endtime: 54.83138
+      Line4:
+        active: 0
+        Hold: 0
+        endtime: 0
+      time: 53.06932
+    BGM: {fileID: 8300000, guid: 4050a375beb009441aedb7025819be8c, type: 3}
+    songtime: 155
+    BPM: 90
+    FullCombo: 766
+    Offset: 2.526927
+    SongName: Altale
+    Author: Sakuzyo
+    SongImage: {fileID: 21300000, guid: a7947a828475f664991ebf069ac14df6, type: 3}
+    level: 13

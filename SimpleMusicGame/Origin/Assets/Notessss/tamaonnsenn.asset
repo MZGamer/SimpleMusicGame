@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdaa449f688c0f46ae40d419dcefee3, type: 3}
+  m_Name: tamaonnsenn
+  m_EditorClassIdentifier: 
+  musicInf:
+    Difficulty:
+    - {fileID: 11400000, guid: a8b6f30ad19680945b9f40b532e0989f, type: 2}
+    - {fileID: 11400000, guid: d907d78afaef59543b7e939d60251686, type: 2}
+    - {fileID: 11400000, guid: e78358140ae92354e90fa7e86ded4c90, type: 2}
+    BGM: {fileID: 8300000, guid: 2dfb37546a3d2bb4dabebfbced294f0b, type: 3}
+    BPM: 140
+    SongName: "\u3086\u3051\u3080\u308A\u9B42\u6E29\u6CC9"
+    Author: "\u9B42\u97F3\u6CC9"
+    SongImage: {fileID: 21300000, guid: e2476a4717c8590488d3d859b4c4080f, type: 3}
+    songID: 6

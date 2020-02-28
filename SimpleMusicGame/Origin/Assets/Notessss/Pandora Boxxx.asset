@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdaa449f688c0f46ae40d419dcefee3, type: 3}
+  m_Name: Pandora Boxxx
+  m_EditorClassIdentifier: 
+  musicInf:
+    Difficulty:
+    - {fileID: 11400000, guid: fa8762ad8f805ed4e88a8a5f1ba9ce56, type: 2}
+    - {fileID: 11400000, guid: 85c9cfa9c0b8dfd45ac423b2a722a6c4, type: 2}
+    - {fileID: 11400000, guid: b9fcff95e0012d045bc4b225c2b6e590, type: 2}
+    - {fileID: 11400000, guid: 3c6be0d0f5557064dad1549cbdccf0fe, type: 2}
+    BGM: {fileID: 8300000, guid: 67f9af312bb2afa4ab27174e3bdbd0e5, type: 3}
+    BPM: 0
+    SongName: ???
+    Author: ???
+    SongImage: {fileID: 21300000, guid: d3c40d523c3976040b008a42fb2d7b68, type: 3}
+    songID: 0

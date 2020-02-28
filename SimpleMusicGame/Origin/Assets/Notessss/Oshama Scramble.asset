@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdaa449f688c0f46ae40d419dcefee3, type: 3}
+  m_Name: Oshama Scramble
+  m_EditorClassIdentifier: 
+  musicInf:
+    Difficulty:
+    - {fileID: 0}
+    - {fileID: 11400000, guid: b89a609ed7761f34fbb66903ae5ba0a4, type: 2}
+    - {fileID: 0}
+    BGM: {fileID: 8300000, guid: ae4a4c8b22575b4408043c0c4873665f, type: 3}
+    BPM: 190
+    SongName: Oshama Scramble!
+    Author: t+pazolite
+    SongImage: {fileID: 21300000, guid: 479d75762d85119408360da3838863cc, type: 3}
+    songID: 13

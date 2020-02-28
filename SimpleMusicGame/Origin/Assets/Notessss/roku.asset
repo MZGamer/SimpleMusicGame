@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdaa449f688c0f46ae40d419dcefee3, type: 3}
+  m_Name: roku
+  m_EditorClassIdentifier: 
+  musicInf:
+    Difficulty:
+    - {fileID: 11400000, guid: 14e8631b0900f1445a88d9bed9c1cdf0, type: 2}
+    - {fileID: 11400000, guid: 0dd18d9cd0b1a424d9bf7cc4fb02913e, type: 2}
+    - {fileID: 0}
+    BGM: {fileID: 8300000, guid: 03533104e9baed04c963d317f9d81770, type: 3}
+    BPM: 186
+    SongName: "\u516D\u5146\u5E74\u3068\u4E00\u591C\u7269\u8A9E"
+    Author: KEMU VOXX
+    SongImage: {fileID: 21300000, guid: 50dcab72e21b34b40a0ca04f5468eb32, type: 3}
+    songID: 2

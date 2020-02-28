@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cdaa449f688c0f46ae40d419dcefee3, type: 3}
+  m_Name: Yumehanabi
+  m_EditorClassIdentifier: 
+  musicInf:
+    Difficulty:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 11400000, guid: 175a6c4ed977f0f41b0b0095929f1501, type: 2}
+    BGM: {fileID: 8300000, guid: d6afa017228390647bcdfa9e099e4731, type: 3}
+    BPM: 186
+    SongName: "\u5922\u82B1\u706B"
+    Author: "\u8C5A\u4E59\u5973"
+    SongImage: {fileID: 21300000, guid: 96b78d3034377f943bebc169c6b754e5, type: 3}
+    songID: 14
