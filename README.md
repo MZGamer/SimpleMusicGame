@@ -6,7 +6,7 @@ Unity選修團隊作業
 3. https://github.com/jasonkao402
 
 ## 注意
-網路存檔功能因伺服器離線而故障中
+網路存檔功能可能因伺服器故障而無法使用
 
-##WebGL
+## WebGL
 https://mzgamer.github.io/SimpleMusicGame/SimpleMusicGame/WebGL/
