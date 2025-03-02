@@ -19,7 +19,7 @@ Unity選修團隊作業
 <img src="https://github.com/MZGamer/SimpleMusicGame/blob/master/%E9%81%8A%E7%8E%A9%E7%95%AB%E9%9D%A2.png" width="720" />
 
 ### 結算畫面
-<img src="https://github.com/MZGamer/SimpleMusicGame/blob/master/%E9%81%B8%E6%AD%8C%E7%95%AB%E9%9D%A2.png" width="720" />
+<img src="https://github.com/MZGamer/SimpleMusicGame/blob/master/%E7%B5%90%E7%AE%97%E7%95%AB%E9%9D%A2.png" width="720" />
 
 
 ## 注意
